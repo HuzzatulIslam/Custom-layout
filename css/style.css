@@ -1,0 +1,38 @@
+body{
+
+text-align: center;
+
+}
+
+.container{
+
+	background-color: pink;
+}
+.box{
+
+	height: 80px;
+	background-color: red;
+	
+}
+
+
+.box1{
+
+	height: 80px;
+	background-color: green;
+
+}
+
+.box2{
+
+
+height: 80px;
+background-color: yellow;
+
+
+}
+.box3{
+height: 80px;
+background-color: blueviolet;
+
+}
